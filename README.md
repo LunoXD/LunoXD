@@ -1,27 +1,19 @@
-<h1 align="center">Ashok Manikanta</h1>
+# Ashok Manikanta
 
-<p align="center">
-Systems Programming • Game Development • CS Student
-</p>
+**Systems Programming • Game Development • CS Student**
 
+## Skills
 
-<h2> Skills </h2>
+![skills](https://skillicons.dev/icons?i=cpp,godot,blender,unrealengine)
 
+## Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,godot,blender,unrealengine" />
+![tools](https://skillicons.dev/icons?i=vscode,vim,git)
 
-<h2> Tools </h2>
+## Operating Systems I Use
 
+![os](https://skillicons.dev/icons?i=apple,windows,linux)
 
-<img src="https://skillicons.dev/icons?i=vscode,vim,git" />
+## Social
 
-<h2>Operating Systems I Use</h2>
-
-<img src="https://skillicons.dev/icons?i=apple,windows,linux" />
-
-
-<h2>Social</h2>
-
-
-<img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail" />
-
+![social](https://skillicons.dev/icons?i=github,discord,instagram,gmail)
