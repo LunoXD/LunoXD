@@ -8,7 +8,7 @@ Systems Programming • Game Development • CS Student
 <h2>Skills</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,godot , blender" />
+<img src="https://skillicons.dev/icons?i=cpp,godot,blender" />
 <img src="https://cdn.simpleicons.org/unrealengine/white" height="48"/>
 </p>
 
